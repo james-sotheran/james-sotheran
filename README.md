@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-sotheran
 - 👀 I’m interested in exploring the field of computer science and software engineering
-- 🌱 I’m currently studying Computer Science at University of Leeds
+- 🌱 I’m a Computer Science Graduate from the University of Leeds
 - 📫 How to reach me: https://www.linkedin.com/in/james-sotheran/
 
 <!---
